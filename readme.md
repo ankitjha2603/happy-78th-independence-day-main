@@ -4,7 +4,7 @@
 This project is a 3D interactive website created using Three.js to celebrate Independence Day. It features a 3D scene with text, images, and the names of Indian freedom fighters, rendered with various lighting effects and shadows.
 
 ## Live Demo
-You can view the live website hosted on GitHub Pages at [Demo](https://ankitjha2603.github.io/happy-78th-Independence-Day/).
+You can view the live website hosted on GitHub Pages at [Demo](https://ankitjha2603.github.io/happy-78th-independence-day/).
 
 ## Features
 - **3D Scene**: An immersive 3D environment using Three.js.
@@ -23,11 +23,6 @@ You can view the live website hosted on GitHub Pages at [Demo](https://ankitjha2
 - **Ground**: Creates and positions a ground plane (hidden in this case).
 - **Images and Text**: Uses `TextureLoader` and `FontLoader` to display the Independence Day message and freedom fighter names.
 - **Animation**: Continuously renders the scene.
-
-## Notes
-- **Font**: The project uses a custom font located at `https://ankitjha2603.github.io/solar-system3D/font.json`.
-- **Image**: Ensure the `flag.png` image is in the project directory or update the path accordingly.
-- **Mobile Development**: The project was developed on a mobile device, and debugging was done using extensive `console.log()` statements and alerts due to the lack of a computer.
 
 ## Contributing
 Feel free to open issues or submit pull requests to improve the project. Contributions are welcome!
